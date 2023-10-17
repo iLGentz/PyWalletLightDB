@@ -9,3 +9,4 @@ parrucchiere | taglio | 40 | 2023-10-17 | 00016
 cibo | pranzo maiale | 15 | 2023-10-17 | 00017
 regali | regalo umbe | 10 | 2023-10-17 | 00018
 rate | pap� | 203 | 2023-10-17 | 00019
+test | pap� | 203 | 2023-10-17 | 00019
