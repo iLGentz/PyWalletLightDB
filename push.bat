@@ -1,5 +1,4 @@
-@echo off
 cd ..\data
 git add . 
-git commit -m 'update db'
+git commit -mo
 git push
