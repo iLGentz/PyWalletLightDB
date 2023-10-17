@@ -1,4 +1,5 @@
 colazione | cornetto e cappucino | 3 | 2023-10-09 | 00005
+colazione | cornetto e cappucino | 3 | 2023-10-09 | 00005
 amazon | supporto pc con ventole | 40 | 2023-10-17 | 00008
 amazon | controller pc | 25 | 2023-10-17 | 00010
 amazon  | rasoio | 25 | 2023-10-17 | 00011
