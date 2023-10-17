@@ -1,0 +1,12 @@
+colazione | cornetto e cappucino | 3 | 2023-10-09 | 00005
+amazon | supporto pc con ventole | 40 | 2023-10-17 | 00008
+amazon | controller pc | 25 | 2023-10-17 | 00010
+amazon  | rasoio | 25 | 2023-10-17 | 00011
+giochi | champ for honor | 8 | 2023-10-17 | 00012
+auto | benzina | 57 | 2023-10-17 | 00013
+telefono | iliad | 10 | 2023-10-17 | 00014
+??? | ??? | 17 | 2023-10-17 | 00015
+parrucchiere | taglio | 40 | 2023-10-17 | 00016
+cibo | pranzo maiale | 15 | 2023-10-17 | 00017
+regali | regalo umbe | 10 | 2023-10-17 | 00018
+rate | pap� | 203 | 2023-10-17 | 00019
