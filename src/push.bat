@@ -1,4 +1,4 @@
-@echo off
+
 cd ..\data
 git add . 
 git commit -mo
