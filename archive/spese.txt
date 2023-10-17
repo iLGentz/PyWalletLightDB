@@ -10,3 +10,4 @@ cibo | pranzo maiale | 15 | 2023-10-17 | 00017
 regali | regalo umbe | 10 | 2023-10-17 | 00018
 rate | pap� | 203 | 2023-10-17 | 00019
 test | tes | 5 | 2023-10-17 | 00024
+test | test | 55 | 2023-10-17 | 00025
