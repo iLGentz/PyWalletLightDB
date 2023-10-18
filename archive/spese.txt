@@ -11,4 +11,3 @@ regali | regalo umbe | 10 | 2023-10-17 | 00018
 rate | pap� | 203 | 2023-10-17 | 00019
 rate | finanziamento auto | 300 | 2023-10-18 | 00026
 paypal | profumi auto | 15 | 2023-10-18 | 00027
-??? | 9 | 9 | 2023-10-18 | 00028
